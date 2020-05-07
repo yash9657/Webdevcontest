@@ -1,0 +1,5 @@
+{
+    "require": {
+        "symfony/swiftmailer-bundle": "^3.4"
+    }
+}
